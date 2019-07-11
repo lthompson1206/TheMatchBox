@@ -8,6 +8,9 @@ Here is the customer's view of the menu:
 
 <img width="376" alt="TheMatchbox_customerMenu" src="https://user-images.githubusercontent.com/48500455/61089497-56d56f80-a409-11e9-889d-93ba74c2f69b.PNG">
 
+Then here is where you choose if you want to buy or sell:
+
+
 
 On the flip side, me as the owner/manager of the app can view the inventory, view how low it is, and add to the inventory. 
 Below is the manager view:
