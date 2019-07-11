@@ -16,9 +16,13 @@ Then here is where you choose if you want to buy or sell:
 On the flip side, me as the owner/manager of the app can view the inventory, view how low it is, and add to the inventory. 
 Below is the manager view:
 
+<img width="381" alt="TheMatchbox_managementMenu" src="https://user-images.githubusercontent.com/48500455/61089846-6f925500-a40a-11e9-96bd-63915861e78b.PNG">
+
+By following through a few steps you can see the change to the inventory below:
+
 
 <img width="371" alt="TheMatchbox_successfulAdd" src="https://user-images.githubusercontent.com/48500455/61089860-7faa3480-a40a-11e9-87a7-57b241d5c300.PNG">
 
-If I wanted to add to any low inventory I have I can do this:
 
-<img width="381" alt="TheMatchbox_managementMenu" src="https://user-images.githubusercontent.com/48500455/61089846-6f925500-a40a-11e9-96bd-63915861e78b.PNG">
+
+
